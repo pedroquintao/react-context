@@ -1,14 +1,11 @@
-import { Button } from '@material-ui/core';
+// import { Button } from '@material-ui/core';
 import {
   Container,
   Titulo,
   InputContainer
 } from './styles';
-import {
-  Input,
-  InputLabel,
-  InputAdornment 
-} from '@material-ui/core';
+
+import { Button, Input, InputLabel, InputAdornment } from '@mui/material'
 
 function Login() {
   return (
